@@ -1,4 +1,4 @@
-# Capsolver GoogleRecaptchaV2 Bypass
+# Capsolver GoogleRecaptchaV3 Bypass
 
 [![Capsolver](docs/capsolver.jpg)](https://dashboard.capsolver.com/passport/register?inviteCode=nqZvQXp_lveg)
 
