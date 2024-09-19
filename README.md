@@ -1,6 +1,6 @@
 # Capsolver GoogleRecaptchaV3 Bypass
 
-[![Capsolver](docs/capsolver.jpg)](https://dashboard.capsolver.com/passport/register?inviteCode=nqZvQXp_lveg)
+[![Capsolver](docs/capsolver.png)](https://www.capsolver.com/?utm_source=github&utm_medium=ads&utm_campaign=scraping&utm_term=Capsolver-GoogleRecaptchaV3Bypass)
 
 **Solve Google Recaptcha V3 in just one line of code!**
 
